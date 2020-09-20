@@ -9,7 +9,8 @@
     * [Facebook](https://www.facebook.com/matvey.daineko/)
     * [LinkedIn](https://www.linkedin.com/in/matvey-daineko-bb7542196/)
 
-1. ****
+1. **About me**\
+I want to have a dream job. My attention was attracted by such a direction as front-end development. At the moment I'm studying this direction and my purpose is to become a full stack developer using **MERN** or **MEVN**. Sometimes I have problems with motivation. I my opinion the reason of it is the boring tasks that I get, but I'm working on it and people close to me are helping me. I'm able to work effectivly as part of a team.
 
 1. **Skills**\
 Above all I should say that I still don't know any of the programming languages and frameworks but I'm making an effort to study them. At the beginning of my studying at the university we got acquainted with such technologies as **C** and **Git**. We have been study **JavaScript** and **Vue.js** for it with our lecturer and **Object Oriented Programming** using **C#** as an example at the university since the beginning of this term. At course from [RS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) we learn framework **React** for **JavaScript**.
