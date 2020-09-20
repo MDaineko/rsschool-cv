@@ -153,8 +153,7 @@
     printf ("Answer:\n x1 = %.2f\nx2 = %.2f\nx3 = %.2f\n", x1, x2, x3);
 
     return 0;
-}
-
+    }
     ```
 
 * ```
@@ -177,8 +176,7 @@
     trigger=~trigger;
     }
     digitalWrite(ledPin, trigger);
-}
-
+    }
     ```
 
 
