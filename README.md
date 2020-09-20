@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MDaineko.github.io/rsschool-cv/cv
