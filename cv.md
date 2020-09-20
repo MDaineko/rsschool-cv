@@ -18,10 +18,11 @@
 
 
 * '''
-\#include <stdio.h>
-\#include <stdlib.h>
+    #include <stdio.h>
+    #include <stdlib.h>
 
-int main(void) { 
+    int main(void) 
+    { 
     float A[3][4]; 
     int i, j, k; 
     float Buffer; 
@@ -83,7 +84,7 @@ int main(void) {
     printf ("Answer:\n x1 = %.2f\nx2 = %.2f\nx3 = %.2f\n", x1, x2, x3);
 
     return 0;
-}
+    }
 '''
 
 
