@@ -17,9 +17,7 @@ Above all I should say that I still don't know any of the programming languages 
 
 1. **Code examples**\
 There are some exapmles of **C** and **Arduino-code**. They were written on practical lessons of *"Basics of Algorithms and Programming"* and *"Basics of Computer Technologies"*.
-
-
-1. ```
+    1. ```
     #include <stdio.h>
     #include <stdlib.h>
 
@@ -89,7 +87,7 @@ There are some exapmles of **C** and **Arduino-code**. They were written on prac
 
     ```
 
-1. ```
+    1. ```
     #include <stdio.h>
     #include <stdlib.h>
 
@@ -157,8 +155,8 @@ There are some exapmles of **C** and **Arduino-code**. They were written on prac
     return 0;
     }
     ```
-
-1. ```
+    
+    1. ```
     #include <Bounce2.h>
 
     int ledPin = 13;
@@ -180,7 +178,6 @@ There are some exapmles of **C** and **Arduino-code**. They were written on prac
     digitalWrite(ledPin, trigger);
     }
     ```
-
 
 1. **Loading...**
 
