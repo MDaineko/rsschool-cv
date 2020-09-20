@@ -9,12 +9,13 @@
     * [Facebook](https://www.facebook.com/matvey.daineko/)
     * [LinkedIn](https://www.linkedin.com/in/matvey-daineko-bb7542196/)
 
-1. ** **
+1. ****
 
-1. ** *Vue.js* *React* **
+1. **Skills**
+Above all I should say that I still don't know any of the programming languages and frameworks but I'm making an effort to study them. At the beginning of my studying at the university I learnt  We have been study **JavaScript** and **Vue.js** for it with our lecturer and **Object Oriented Programming** using **C#** as an example at the university since the beginning of this term. At course from [RS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) we learn framework **React** for **JavaScript**.
 
-1. **Code examples**. 
-    There are some exapmles of C and Arduino-code. They were written on practical lessons of *"Basics of Algorithms and Programming"* and *"Basics of Computer Technologies"*.
+1. **Code examples**
+There are some exapmles of **C** and **Arduino-code**. They were written on practical lessons of *"Basics of Algorithms and Programming"* and *"Basics of Computer Technologies"*.
 
 
 * ```
@@ -182,6 +183,7 @@
 
 1. **Loading...**
 
-1. **Education**. I'm a third-year student. I'm completing by bachelor's degree from *Francisk Skorina Gomel State University*. Course title is *Programming Mobile Systems*. Currently I've been doing "*Frontend developer*" course on [Hexlet](https://ru.hexlet.io) since our training started as a complemet to the training from [RS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) within the framework of self-education.
+1. **Education**
+I'm a third-year student. I'm completing by bachelor's degree from *Francisk Skorina Gomel State University*. Course title is *Programming Mobile Systems*. Currently I've been doing "*Frontend developer*" course on [Hexlet](https://ru.hexlet.io) since our training started as a complemet to the training from [fRS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) within the framework of self-education.
 
 1. **English level**: *Intermediate*
