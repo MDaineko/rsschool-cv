@@ -1,5 +1,5 @@
 # CV
-1. *Matvey Daineko*
+1. **Matvey Daineko**
 
 1. **Contacts**:
     * Phone number: **+375445442936**
