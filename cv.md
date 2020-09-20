@@ -18,8 +18,8 @@
 
 
 * '''
-#include <stdio.h>
-#include <stdlib.h>
+\#include <stdio.h>
+\#include <stdlib.h>
 
 int main(void) { 
     float A[3][4]; 
@@ -86,15 +86,16 @@ int main(void) {
 }
 '''
 
-* '''
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#define N 3                                                                                 //Array size
 
-     float a[N][N+1] ={2.5, -3.12, -4.03, 0, 0.61, 0.71, -0.05, 0, -1.03, -2.05, 0.87};      //Array A
-    float d[N]= {-7.5, 0.44, -1.16};                                                        //Array B
+* '''
+\#include <stdio.h>
+\#include <math.h>
+\#include <stdlib.h>
+\#include <stdbool.h>
+\#define N 3         //Array size
+
+    float a[N][N+1] ={2.5, -3.12, -4.03, 0, 0.61, 0.71, -0.05, 0, -1.03, -2.05, 0.87};         //Array A
+    float d[N]= {-7.5, 0.44, -1.16};            //Array B
 
 void matrixA (float ArrayA[N][N+1]);
 void matrixD (float ArrayB[N]);
@@ -212,6 +213,6 @@ void logic (float e) {
 
 1. **Loading...**
 
-1. **Education**. I'm a third-year student. I'm completing by bachelor's degree from *Francisk Skorina Gomel State University*. Course title is Programming Mobile Systems. Currently I've been doing "*Frontend developer*" course on [Hexlet](https://ru.hexlet.io) since our training started as a complemet to the training from [RS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) within the framework of self-education.
+1. **Education**. I'm a third-year student. I'm completing by bachelor's degree from *Francisk Skorina Gomel State University*. Course title is *Programming Mobile Systems*. Currently I've been doing "*Frontend developer*" course on [Hexlet](https://ru.hexlet.io) since our training started as a complemet to the training from [RS-School](https://rs.school/) with [EPAM](https://training.by/#!/Home?lang=ru) within the framework of self-education.
 
 1. **English level**: *Intermediate*
